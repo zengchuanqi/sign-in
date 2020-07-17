@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98507e60-9f0c-49eb-8a21-aae1913d9dd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d6gaBpdV3wo16fFFLFTw3eaIhI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/github/again" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pythonstudy\again\api" />
+      <recent name="E:\pythonstudy\again\page" />
+      <recent name="E:\pythonstudy\again\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pythonstudy\again\testcase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_sign_in.py">
+    <configuration name="test_email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/hugewarts/web_auto/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/hugewarts/web_auto/test/test_email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_tag.TestTage.test_add_tag" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tag.TestTage.test_add_tag&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_tag.TestTage.test_delete_tag" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tag.TestTage.test_delete_tag&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_tag.TestTage.test_get_tag" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_tag.TestTage.test_get_tag&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_sign_in.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_sign_in.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_sign_in.py" />
+        <item itemvalue="Python.test_email" />
+        <item itemvalue="Python tests.pytest for test_tag.TestTage.test_delete_tag" />
+        <item itemvalue="Python tests.pytest for test_tag.TestTage.test_add_tag" />
+        <item itemvalue="Python tests.pytest for test_tag.TestTage.test_get_tag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98507e60-9f0c-49eb-8a21-aae1913d9dd5" name="Default Changelist" comment="" />
+      <created>1591751017187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591751017187</updated>
+      <workItem from="1591751026977" duration="30570000" />
+      <workItem from="1592123810239" duration="1841000" />
+      <workItem from="1593176806037" duration="769000" />
+      <workItem from="1593234563422" duration="48254000" />
+      <workItem from="1593648828811" duration="15562000" />
+      <workItem from="1593754928934" duration="8402000" />
+      <workItem from="1593932638913" duration="10500000" />
+      <workItem from="1594531874102" duration="10600000" />
+      <workItem from="1594887708349" duration="2795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591776829450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591776829450" />
+    <state x="531" y="263" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1593268148851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="263" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1593268148851" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1594990927655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594990927655" />
+    <state width="1323" height="266" key="GridCell.Tab.0.bottom" timestamp="1594887476834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="266" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594887476834" />
+    <state width="1323" height="266" key="GridCell.Tab.0.center" timestamp="1594887476834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="266" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594887476834" />
+    <state width="1323" height="266" key="GridCell.Tab.0.left" timestamp="1594887476834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="266" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594887476834" />
+    <state width="1323" height="266" key="GridCell.Tab.0.right" timestamp="1594887476834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="266" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594887476834" />
+    <state width="637" height="222" key="GridCell.Tab.1.bottom" timestamp="1593831633568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593831633568" />
+    <state width="637" height="222" key="GridCell.Tab.1.center" timestamp="1593831633568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593831633568" />
+    <state width="637" height="222" key="GridCell.Tab.1.left" timestamp="1593831633568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593831633568" />
+    <state width="637" height="222" key="GridCell.Tab.1.right" timestamp="1593831633568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593831633568" />
+    <state x="292" y="19" key="SettingsEditor" timestamp="1594883069745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="19" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594883069745" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593487009236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593487009236" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_sign_in.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_login_TestIdenx_test_dulogin.coverage" NAME="pytest for test_login.TestIdenx.test_dulogin Coverage Results" MODIFIED="1591798391553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_index_TestLogin.coverage" NAME="pytest for test_index.TestLogin Coverage Results" MODIFIED="1593239845540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_wework_TestWx_test_jsonpath.coverage" NAME="pytest for test_wework.TestWx.test_jsonpath Coverage Results" MODIFIED="1593653244638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_in_test_add_cookies_py.coverage" NAME="pytest in test_add_cookies.py Coverage Results" MODIFIED="1593481973064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_tag_TestTage_test_get_api.coverage" NAME="pytest for test_tag.TestTage.test_get_api Coverage Results" MODIFIED="1593935272856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_webview.coverage" NAME="pytest for bd.TestIdenx.test_webview Coverage Results" MODIFIED="1591797702081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_wework_TestWx_test_group_detail.coverage" NAME="pytest for test_wework.TestWx.test_group_detail Coverage Results" MODIFIED="1593653424261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_excel_test_excel.coverage" NAME="pytest for test_excel.test_excel Coverage Results" MODIFIED="1591796582109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_print.coverage" NAME="pytest for bd.TestIdenx.test_print Coverage Results" MODIFIED="1591783483443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_tag_TestTage_test_add_tag.coverage" NAME="pytest for test_tag.TestTage.test_add_tag Coverage Results" MODIFIED="1593951445283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_new.coverage" NAME="pytest for bd.TestIdenx.test_new Coverage Results" MODIFIED="1591769781012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_wait.coverage" NAME="pytest for bd.TestIdenx.test_wait Coverage Results" MODIFIED="1591779905826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_in_test_excel_py.coverage" NAME="pytest in test_excel.py Coverage Results" MODIFIED="1591796434255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_wework_TestWx_test_group_list.coverage" NAME="pytest for test_wework.TestWx.test_group_list Coverage Results" MODIFIED="1593651941425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_in_test_sign_in_py.coverage" NAME="pytest in test_sign_in.py Coverage Results" MODIFIED="1594989899755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$alert_demo.coverage" NAME="alert_demo Coverage Results" MODIFIED="1591754382702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/hugewarts/all/selenium_demo" />
+    <SUITE FILE_PATH="coverage/again$test.coverage" NAME="sele_locat Coverage Results" MODIFIED="1591762016068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$sele_locat__1_.coverage" NAME="sele_locat (1) Coverage Results" MODIFIED="1591762288749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_dfg.coverage" NAME="pytest for bd.TestIdenx.test_dfg Coverage Results" MODIFIED="1591779924275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_main_TestMain.coverage" NAME="pytest for test_main.TestMain Coverage Results" MODIFIED="1593267437192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$baidu_com.coverage" NAME="baidu.com Coverage Results" MODIFIED="1591762024196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_index_TestLogin_test_register.coverage" NAME="pytest for test_index.TestLogin.test_register Coverage Results" MODIFIED="1593241448774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_screenshot.coverage" NAME="pytest for bd.TestIdenx.test_screenshot Coverage Results" MODIFIED="1591862815078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_print_vary_test_dfg.coverage" NAME="pytest for print_vary.test_dfg Coverage Results" MODIFIED="1591779962255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx.coverage" NAME="pytest for bd.TestIdenx Coverage Results" MODIFIED="1591776758660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_contact_TestWx_test_contact_update.coverage" NAME="pytest for test_contact.TestWx.test_contact_update Coverage Results" MODIFIED="1593440775900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_wx_login_TestLogin_test_register.coverage" NAME="pytest for test_wx_login.TestLogin.test_register Coverage Results" MODIFIED="1593235621805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_main_TestMain_test_add_member.coverage" NAME="pytest for test_main.TestMain.test_add_member Coverage Results" MODIFIED="1593270200718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_login.coverage" NAME="pytest for bd.TestIdenx.test_login Coverage Results" MODIFIED="1591778474447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_wework_TestWx_test_group_get.coverage" NAME="pytest for test_wework.TestWx.test_group_get Coverage Results" MODIFIED="1593398018341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_setting.coverage" NAME="pytest for bd.TestIdenx.test_setting Coverage Results" MODIFIED="1591768678316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$sele_locat.coverage" NAME="sele_locat Coverage Results" MODIFIED="1593830395057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test.coverage" NAME="pytest for bd.TestIdenx.test Coverage Results" MODIFIED="1591797666955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_contact_TestWx_test_get_contact.coverage" NAME="pytest for test_contact.TestWx.test_get_contact Coverage Results" MODIFIED="1593439970242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_wework_TestWx_test_get_token.coverage" NAME="pytest for test_wework.TestWx.test_get_token Coverage Results" MODIFIED="1593390677534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_index_TestLogin_test_login.coverage" NAME="pytest for test_index.TestLogin.test_login Coverage Results" MODIFIED="1593240067501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$test_email.coverage" NAME="test_email Coverage Results" MODIFIED="1594883004900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/hugewarts/web_auto/test" />
+    <SUITE FILE_PATH="coverage/again$baidu__1_.coverage" NAME="baidu (1) Coverage Results" MODIFIED="1591762129372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_tag_TestTage_test_get_tag.coverage" NAME="pytest for test_tag.TestTage.test_get_tag Coverage Results" MODIFIED="1593951287115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$base.coverage" NAME="base Coverage Results" MODIFIED="1593665609581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_wework_TestWx.coverage" NAME="pytest for test_wework.TestWx Coverage Results" MODIFIED="1593402974931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_dulogin.coverage" NAME="pytest for bd.TestIdenx.test_dulogin Coverage Results" MODIFIED="1591797714735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_tag_TestTage_test_delete_tag.coverage" NAME="pytest for test_tag.TestTage.test_delete_tag Coverage Results" MODIFIED="1593951531586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_name.coverage" NAME="pytest for bd.TestIdenx.test_name Coverage Results" MODIFIED="1591784461323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_search.coverage" NAME="pytest for bd.TestIdenx.test_search Coverage Results" MODIFIED="1591784985029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_tag_TestTage.coverage" NAME="pytest for test_tag.TestTage Coverage Results" MODIFIED="1593935711970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_TestIdenx_test_checkbox.coverage" NAME="pytest for bd.TestIdenx.test_checkbox Coverage Results" MODIFIED="1591780065069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_print_vary_test_parametrize_1.coverage" NAME="pytest for print_vary.test_parametrize_1 Coverage Results" MODIFIED="1591797542415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_main_TestMain_test_send_message.coverage" NAME="pytest for test_main.TestMain.test_send_message Coverage Results" MODIFIED="1593347266565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_contact_TestWx_test_get_token.coverage" NAME="pytest for test_contact.TestWx.test_get_token Coverage Results" MODIFIED="1593938817961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_add_cookies_test_cookies.coverage" NAME="pytest for test_add_cookies.test_cookies Coverage Results" MODIFIED="1593482617026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_bd_test_print.coverage" NAME="pytest for bd.test_print Coverage Results" MODIFIED="1591783217396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_login_TestIdenx_test_login.coverage" NAME="pytest for test_login.TestIdenx.test_login Coverage Results" MODIFIED="1591798747340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/again$sp.coverage" NAME="sp Coverage Results" MODIFIED="1593529292059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$print_vary.coverage" NAME="print_vary Coverage Results" MODIFIED="1591763288913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/again$pytest_for_test_main_TestMain_test_search.coverage" NAME="pytest for test_main.TestMain.test_search Coverage Results" MODIFIED="1593303123380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+  </component>
+</project>
